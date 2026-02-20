@@ -1,2 +1,2 @@
-# Pizza_delivery_sales.Pbi
+# Pizza_sales.Pbi
 pizza delivery sales power bi projuct
